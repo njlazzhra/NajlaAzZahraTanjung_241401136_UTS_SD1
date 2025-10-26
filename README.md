@@ -1,6 +1,6 @@
 # UTS DP1
 
-Halow adik-adik DP1!
+Halow adik-adik SD1!
 
 **📅 Timeline UTS**
 
